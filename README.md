@@ -1,3 +1,3 @@
 # first
-<u>first repo of git</u><br>
-by samaksh
+first repo of git<br>
+by samaksh new
